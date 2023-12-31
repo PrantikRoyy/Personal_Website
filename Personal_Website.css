@@ -1,0 +1,51 @@
+header {
+    text-align: center;
+    text-decoration: underline;
+    font-size:xx-large;
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url("images/background.png");
+}
+
+h3 {
+    text-align: center;
+    background-image: url("images/background3.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-decoration: underline;
+}
+
+h2 {
+    background-color: orange;
+    text-align: center;
+}
+
+#container {
+    display: inline-flex;
+    background-image: url("images/background2.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+a {
+    color: orange;
+}
+
+ul{
+    text-align: left;
+}
+
+#project{
+    width: 50%;
+    padding: 70px;
+    font-size: 110%;
+}
+
+span {
+    font-weight: bold;
+}
+
