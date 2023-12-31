@@ -1,0 +1,1 @@
+This is a website that gives a summary of my own personal infromation, highlighting all the relevent information that is to know about me for future employers/industry professionals of the field i'm interested in/collegues.
